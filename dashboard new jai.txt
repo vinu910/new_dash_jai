@@ -173,7 +173,8 @@ var SECTIONS=[
  ]},
  {id:"prod",name:"Production Management",items:[
   {t:"PMS",d:"Production management",tag:"Sheet",u:"https://docs.google.com/spreadsheets/d/1kFAbB4JJ27tOuWls_UMLzYSmH7Ollt7JSk6TTZBFQ9w"},
-  {t:"PMS Data",d:"All production data",tag:"Sheet",u:"https://docs.google.com/spreadsheets/d/1IfIZDpNGoONhzAzgswFKlhBrd9_8dDlDN3CnDKzp9I4"}
+  {t:"PMS Data",d:"All production data",tag:"Sheet",u:"https://docs.google.com/spreadsheets/d/1IfIZDpNGoONhzAzgswFKlhBrd9_8dDlDN3CnDKzp9I4"},
+  {t:"PMS Calculation",d:"Production calculation web app",tag:"Web App",u:"https://vinu910.github.io/pms-calculation/"}
  ]},
  {id:"acc",name:"Accounts and Administration",items:[
   {t:"Account Check",d:"Account checklist",tag:"Sheet",u:"https://docs.google.com/spreadsheets/d/1NlgOfI8KZgwhfZcXYLfrOJ2y9z0yIZldhlcXavokaTg"},
